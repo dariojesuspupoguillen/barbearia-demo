@@ -43,11 +43,12 @@ section {
 
 .map-box {
   background: #ddd;
-  height: 200px;
+  height: 300px;
   margin-top: 20px;
 }
 
 footer {
   background: #111;
   padding: 30px;
+
 }
